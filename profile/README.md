@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/245223188?v=4" width="90" style="border-radius: 50%"/>
-
 # ChorAI
 
 ### Secure AI Infrastructure & Automation for Business
